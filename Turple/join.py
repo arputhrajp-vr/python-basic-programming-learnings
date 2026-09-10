@@ -10,3 +10,5 @@ fruits = ("apple", "banana", "cherry")
 myturple = fruits * 2
 print(myturple)
 
+thistuple = ()
+print(type(thistuple))
